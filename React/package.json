@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "reactlearning",
   "version": "1.0.0",
   "description": "learnding",
   "main": "index.js",
@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react": "^6.24.1"
+  }
 }
